@@ -7,7 +7,7 @@ body, html {
   text-align: center;
   background: url('../images/white-wood.jpg') no-repeat;
   background-size: cover;
-  position: fixed;
+  position: sticky;
 }
 
 .container, h1 {
