@@ -60,6 +60,7 @@ h4 {
 img {
   box-sizing: border-box;
   border: 1px solid black;
+  box-shadow: -1px 1px #22aa44;
 }
 
 
